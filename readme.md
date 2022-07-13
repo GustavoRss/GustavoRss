@@ -4,7 +4,7 @@
 
 ### About me
 - Full-stack java developer at [Koerich Lab](https://www.klab.com.br/)
-- Bachelor in Information Systems
+- Graduated in Information Systems
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=gustavorss" height="150" alt="stats graph"  />
