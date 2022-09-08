@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gustavo-reis-904449181/)
 
 ### About me
-- Full-stack java developer at [Koerich Lab](https://www.klab.com.br/)
+- Full-stack .NET developer at [Meta](https://www.meta.com.br/)
 - Graduated in Information Systems
 
 <div align="left">
