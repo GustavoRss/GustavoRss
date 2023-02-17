@@ -7,11 +7,11 @@
 
 **Technologies I work on or am learning:**
 
-[<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">]
-[<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">]
-[<img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white">]
-[<img src="https://img.shields.io/badge/angular-000000.svg?style=flat&logo=c-sharp&logoColor=white">]
-[<img src="https://img.shields.io/badge/react-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">]
-[<img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=white">]
-[<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">]
-[<img src="https://img.shields.io/badge/postgres-000000?style=flat&logo=postgres&logoColor=white">]
+<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/java-000000.svg?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/angular-000000.svg?style=flat&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/react-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-000000?style=flat&logo=postgres&logoColor=white">
