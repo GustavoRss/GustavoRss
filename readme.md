@@ -1,31 +1,17 @@
-# Hi, I'm Gustavo!
+**Connect with me**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gustavo-reis-904449181/)
+[<img src="https://img.shields.io/badge/HackerRank-000000?style=flat&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/morhen)
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gustavorss/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">](https://github.com/GustavoRss)
+[<img src="https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white">](mailto:gustavoreisdev@gmail.com)
 
-### About me
-- Full-stack .NET developer at [Meta](https://www.meta.com.br/)
-- Graduated in Information Systems
+**Technologies I work on or am learning:**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=gustavorss" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&username=gustavorss" height="150" alt="languages graph"  />
-</div>
-
-<h3 align="left">Knowledge</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-</div>
-
-###
-
-###
+[<img src="https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">]
+[<img src="https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white">]
+[<img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white">]
+[<img src="https://img.shields.io/badge/angular-000000.svg?style=flat&logo=c-sharp&logoColor=white">]
+[<img src="https://img.shields.io/badge/react-%23000000.svg?style=flat&logo=c-sharp&logoColor=white">]
+[<img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=white">]
+[<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">]
+[<img src="https://img.shields.io/badge/postgres-000000?style=flat&logo=postgres&logoColor=white">]
