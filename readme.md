@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/react-%23000000.svg?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-000000?style=flat&logo=postgres&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=white">
