@@ -18,4 +18,4 @@
 
 **See the last personal project I developed:**
 
-[<img src="https://user-images.githubusercontent.com/41273411/219799191-3d38cbc0-e2e0-4fea-892a-e4c0a2ade90e.png">](https://github.com/GustavoRss/PorquemApp)
+[<img style="width: 200px" src="https://user-images.githubusercontent.com/41273411/219799191-3d38cbc0-e2e0-4fea-892a-e4c0a2ade90e.png">](https://github.com/GustavoRss/PorquemApp)
