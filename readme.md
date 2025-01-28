@@ -15,7 +15,3 @@
 [<img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=white">](https://www.linkedin.com/in/gustavorss/)
 [<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">](https://www.linkedin.com/in/gustavorss/)
 [<img src="https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=white">](https://www.linkedin.com/in/gustavorss/)
-
-**See the last personal project I developed:**
-
-[<img style="width: 150px" src="https://user-images.githubusercontent.com/41273411/219799191-3d38cbc0-e2e0-4fea-892a-e4c0a2ade90e.png">](https://www.linkedin.com/feed/update/urn:li:activity:6911041064380329984/)
